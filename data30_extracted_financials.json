@@ -1,0 +1,291 @@
+{
+    "page_2": [
+        {
+            "financial_statement_type": "standalone",
+            "date": "31st December 2024"
+        },
+        {
+            "financial_statement_type": "standalone",
+            "date": "31st December 2023"
+        },
+        {
+            "financial_statement_type": "standalone",
+            "date": "31st December 2024"
+        },
+        {
+            "financial_statement_type": "standalone",
+            "date": "31st December 2023"
+        },
+        {
+            "financial_statement_type": "standalone",
+            "date": "30th September 2024"
+        },
+        {
+            "financial_statement_type": "standalone",
+            "date": "31st March 2024"
+        }
+    ],
+    "page_3": [],
+    "page_4": [
+        {
+            "financial_statement_type": "standalone",
+            "statement_period": "3 Months",
+            "end_date": "31-12-2024",
+            "financial_data": {
+                "Revenue from operations": null,
+                "Other income": null,
+                "Total Revenue": "2,087.89",
+                "Expenses": null,
+                "Cost of materials consumed": "945.99",
+                "Changes in inventories of finished goods, work-in-progress and stock in trade": null,
+                "Employee benefits expense": "279.66",
+                "Finance costs": "22.94",
+                "Depreciation and amortisation expense": "37.16",
+                "Other expenses": "906.71",
+                "Profit before exceptional and extraordinary items and tax": null,
+                "Exceptional Items": null,
+                "Profit / (Loss) before tax from continuing operations": "1,292.36",
+                "Tax Expense from continuing operations": null,
+                "Current Tax": null,
+                "Deferred Tax": null,
+                "Income tax for earlier years": null,
+                "Profit / (Loss) for the period from continuing operations": null,
+                "Profit / (Loss) before tax from discontinued operations": null,
+                "Tax Expense from discontinued operations": null,
+                "Profit / (Loss) for the period from discontinued operations": null,
+                "Other comprehensive income": null,
+                "Remeasurement of net defined benefit obligation": null,
+                "Total comprehensive income": null,
+                "Paid-up equity share capital": null,
+                "Other Equity": null,
+                "Earnings per equity share": null,
+                "Basic": null,
+                "Diluted": null
+            }
+        },
+        {
+            "financial_statement_type": "standalone",
+            "statement_period": "Preceding 3 Months",
+            "end_date": "30-09-2024",
+            "financial_data": {
+                "Revenue from operations": null,
+                "Other income": null,
+                "Total Revenue": "2,614.64",
+                "Expenses": null,
+                "Cost of materials consumed": "1,271.59",
+                "Changes in inventories of finished goods, work-in-progress and stock in trade": null,
+                "Employee benefits expense": null,
+                "Finance costs": null,
+                "Depreciation and amortisation expense": null,
+                "Other expenses": null,
+                "Profit before exceptional and extraordinary items and tax": null,
+                "Exceptional Items": null,
+                "Profit / (Loss) before tax from continuing operations": null,
+                "Tax Expense from continuing operations": null,
+                "Current Tax": null,
+                "Deferred Tax": null,
+                "Income tax for earlier years": null,
+                "Profit / (Loss) for the period from continuing operations": null,
+                "Profit / (Loss) before tax from discontinued operations": null,
+                "Tax Expense from discontinued operations": null,
+                "Profit / (Loss) for the period from discontinued operations": null,
+                "Other comprehensive income": null,
+                "Remeasurement of net defined benefit obligation": null,
+                "Total comprehensive income": null,
+                "Paid-up equity share capital": null,
+                "Other Equity": null,
+                "Earnings per equity share": null,
+                "Basic": null,
+                "Diluted": null
+            }
+        },
+        {
+            "financial_statement_type": "standalone",
+            "statement_period": "Corresponding 3 Months",
+            "end_date": "31-12-2023",
+            "financial_data": {
+                "Revenue from operations": null,
+                "Other income": null,
+                "Total Revenue": "5,287.28",
+                "Expenses": null,
+                "Cost of materials consumed": null,
+                "Changes in inventories of finished goods, work-in-progress and stock in trade": null,
+                "Employee benefits expense": null,
+                "Finance costs": null,
+                "Depreciation and amortisation expense": null,
+                "Other expenses": null,
+                "Profit before exceptional and extraordinary items and tax": null,
+                "Exceptional Items": null,
+                "Profit / (Loss) before tax from continuing operations": null,
+                "Tax Expense from continuing operations": null,
+                "Current Tax": null,
+                "Deferred Tax": null,
+                "Income tax for earlier years": null,
+                "Profit / (Loss) for the period from continuing operations": null,
+                "Profit / (Loss) before tax from discontinued operations": null,
+                "Tax Expense from discontinued operations": null,
+                "Profit / (Loss) for the period from discontinued operations": null,
+                "Other comprehensive income": null,
+                "Remeasurement of net defined benefit obligation": null,
+                "Total comprehensive income": null,
+                "Paid-up equity share capital": null,
+                "Other Equity": null,
+                "Earnings per equity share": null,
+                "Basic": null,
+                "Diluted": null
+            }
+        },
+        {
+            "financial_statement_type": "standalone",
+            "statement_period": "Nine Months Ended",
+            "end_date": "31-12-2024",
+            "financial_data": {
+                "Revenue from operations": null,
+                "Other income": null,
+                "Total Revenue": null,
+                "Expenses": null,
+                "Cost of materials consumed": null,
+                "Changes in inventories of finished goods, work-in-progress and stock in trade": null,
+                "Employee benefits expense": null,
+                "Finance costs": null,
+                "Depreciation and amortisation expense": null,
+                "Other expenses": null,
+                "Profit before exceptional and extraordinary items and tax": null,
+                "Exceptional Items": null,
+                "Profit / (Loss) before tax from continuing operations": null,
+                "Tax Expense from continuing operations": null,
+                "Current Tax": null,
+                "Deferred Tax": null,
+                "Income tax for earlier years": null,
+                "Profit / (Loss) for the period from continuing operations": null,
+                "Profit / (Loss) before tax from discontinued operations": null,
+                "Tax Expense from discontinued operations": null,
+                "Profit / (Loss) for the period from discontinued operations": null,
+                "Other comprehensive income": null,
+                "Remeasurement of net defined benefit obligation": null,
+                "Total comprehensive income": null,
+                "Paid-up equity share capital": "8,358.07",
+                "Other Equity": null,
+                "Earnings per equity share": null,
+                "Basic": null,
+                "Diluted": null
+            }
+        },
+        {
+            "financial_statement_type": "standalone",
+            "statement_period": "Nine Months Ended",
+            "end_date": "31-12-2023",
+            "financial_data": {
+                "Revenue from operations": "1,988.29",
+                "Other income": null,
+                "Total Revenue": null,
+                "Expenses": null,
+                "Cost of materials consumed": null,
+                "Changes in inventories of finished goods, work-in-progress and stock in trade": null,
+                "Employee benefits expense": null,
+                "Finance costs": null,
+                "Depreciation and amortisation expense": null,
+                "Other expenses": null,
+                "Profit before exceptional and extraordinary items and tax": null,
+                "Exceptional Items": null,
+                "Profit / (Loss) before tax from continuing operations": null,
+                "Tax Expense from continuing operations": null,
+                "Current Tax": null,
+                "Deferred Tax": null,
+                "Income tax for earlier years": null,
+                "Profit / (Loss) for the period from continuing operations": null,
+                "Profit / (Loss) before tax from discontinued operations": null,
+                "Tax Expense from discontinued operations": null,
+                "Profit / (Loss) for the period from discontinued operations": null,
+                "Other comprehensive income": null,
+                "Remeasurement of net defined benefit obligation": null,
+                "Total comprehensive income": null,
+                "Paid-up equity share capital": null,
+                "Other Equity": null,
+                "Earnings per equity share": null,
+                "Basic": null,
+                "Diluted": null
+            }
+        },
+        {
+            "financial_statement_type": "standalone",
+            "statement_period": "Year Ended",
+            "end_date": "31-03-2024",
+            "financial_data": {
+                "Revenue from operations": "2,672.64",
+                "Other income": null,
+                "Total Revenue": null,
+                "Expenses": null,
+                "Cost of materials consumed": null,
+                "Changes in inventories of finished goods, work-in-progress and stock in trade": null,
+                "Employee benefits expense": null,
+                "Finance costs": null,
+                "Depreciation and amortisation expense": null,
+                "Other expenses": null,
+                "Profit before exceptional and extraordinary items and tax": null,
+                "Exceptional Items": null,
+                "Profit / (Loss) before tax from continuing operations": null,
+                "Tax Expense from continuing operations": null,
+                "Current Tax": null,
+                "Deferred Tax": null,
+                "Income tax for earlier years": null,
+                "Profit / (Loss) for the period from continuing operations": null,
+                "Profit / (Loss) before tax from discontinued operations": null,
+                "Tax Expense from discontinued operations": null,
+                "Profit / (Loss) for the period from discontinued operations": null,
+                "Other comprehensive income": null,
+                "Remeasurement of net defined benefit obligation": null,
+                "Total comprehensive income": null,
+                "Paid-up equity share capital": null,
+                "Other Equity": null,
+                "Earnings per equity share": null,
+                "Basic": null,
+                "Diluted": null
+            }
+        }
+    ],
+    "page_6": {
+        "financialStatements": [
+            {
+                "type": "standalone",
+                "endDate": "2024-12-31",
+                "period": "quarter"
+            },
+            {
+                "type": "consolidated",
+                "endDate": "2024-12-31",
+                "period": "quarter"
+            },
+            {
+                "type": "standalone",
+                "endDate": "2024-12-31",
+                "period": "nine months"
+            },
+            {
+                "type": "consolidated",
+                "endDate": "2024-12-31",
+                "period": "nine months"
+            },
+            {
+                "type": "standalone",
+                "endDate": "2024-09-30",
+                "period": "quarter"
+            },
+            {
+                "type": "consolidated",
+                "endDate": "2024-09-30",
+                "period": "quarter"
+            },
+            {
+                "type": "standalone",
+                "endDate": "2024-03-31",
+                "period": "year"
+            },
+            {
+                "type": "consolidated",
+                "endDate": "2024-03-31",
+                "period": "year"
+            }
+        ]
+    }
+}

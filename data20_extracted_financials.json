@@ -1,0 +1,190 @@
+{
+    "page_2": {
+        "financial_statements": [
+            {
+                "company_name": "Kamadgiri Fashion Limited",
+                "statement_type": "Unaudited Financial Results",
+                "dates": [
+                    {
+                        "period": "Quarter Ended",
+                        "date": "31-DEC-2024",
+                        "data": {
+                            "Income From Operations": "4,463.99",
+                            "Other Income": "2.47",
+                            "Total Income from operations": "4,466.46",
+                            "Cost of materials consumed": "2,100.58",
+                            "Purchase of Stock-in-trade": "214.15",
+                            "Changes in inventories of Finished Goods, Work-in-Progress": "264,52",
+                            "Employees benefits expense": "263.88",
+                            "Finance Costs": "63.32",
+                            "Depreciation and amortisation expense": "79.55",
+                            "Job Charges": "878.17",
+                            "Other expenses": "465.31",
+                            "Total Expenses": "4,329.47",
+                            "Profit/(Loss) before tax (1-2)": "136.99",
+                            "Current Tax": null,
+                            "Deferred Tax": "36.68",
+                            "Net Profit/(Loss) for the period (3-4)": "100.0",
+                            "Other Comprehensive Income": null,
+                            "Total Comprehensive Income for the period": "100.99",
+                            "Paid-up equity share capital": "586.94",
+                            "Earning per share Basic": "0.43",
+                            "Earning per share Diluted": "0.43"
+                        }
+                    },
+                    {
+                        "period": "Quarter Ended",
+                        "date": "30-SEPT-2024",
+                        "data": {
+                            "Income From Operations": "4,403.25",
+                            "Other Income": "60.90",
+                            "Total Income from operations": "4,464.15",
+                            "Cost of materials consumed": "2,810.09",
+                            "Purchase of Stock-in-trade": "330.05",
+                            "Changes in inventories of Finished Goods, Work-in-Progress": "(559.34)",
+                            "Employees benefits expense": "284.74",
+                            "Finance Costs": "108,00",
+                            "Depreciation and amortisation expense": "61.51",
+                            "Job Charges": "932.55",
+                            "Other expenses": "497.18",
+                            "Total Expenses": "4,434.74",
+                            "Profit/(Loss) before tax (1-2)": "29.40",
+                            "Current Tax": null,
+                            "Deferred Tax": "442",
+                            "Net Profit/(Loss) for the period (3-4)": "24,98",
+                            "Other Comprehensive Income": null,
+                            "Total Comprehensive Income for the period": "25.66",
+                            "Paid-up equity share capital": "586.94",
+                            "Earning per share Basic": "1.71",
+                            "Earning per share Diluted": "1.71"
+                        }
+                    },
+                    {
+                        "period": "Quarter Ended",
+                        "date": "31-DEC-2023",
+                        "data": {
+                            "Income From Operations": "5,727.44",
+                            "Other Income": "241",
+                            "Total Income from operations": "5,729.55",
+                            "Cost of materials consumed": "2,526.36",
+                            "Purchase of Stock-in-trade": "1,863.06",
+                            "Changes in inventories of Finished Goods, Work-in-Progress": "(282.32)",
+                            "Employees benefits expense": "523.44",
+                            "Finance Costs": "179.21",
+                            "Depreciation and amortisation expense": "103.18",
+                            "Job Charges": "654.38",
+                            "Other expenses": "615.53",
+                            "Total Expenses": "5,882.84",
+                            "Profit/(Loss) before tax (1-2)": "(153.29)",
+                            "Current Tax": null,
+                            "Deferred Tax": "(53.14)",
+                            "Net Profit/(Loss) for the period (3-4)": "(100.15)",
+                            "Other Comprehensive Income": null,
+                            "Total Comprehensive Income for the period": "(98.28)",
+                            "Paid-up equity share capital": "586.94",
+                            "Earning per share Basic": "(1.71)",
+                            "Earning per share Diluted": "(1.71)"
+                        }
+                    },
+                    {
+                        "period": "Nine Month Ended",
+                        "date": "31-DEC-2024",
+                        "data": {
+                            "Income From Operations": "13,498.72",
+                            "Other Income": "78.03",
+                            "Total Income from operations": "13,576.75",
+                            "Cost of materials consumed": "7,266.44",
+                            "Purchase of Stock-in-trade": "964.71",
+                            "Changes in inventories of Finished Goods, Work-in-Progress": "(368.95)",
+                            "Employees benefits expense": "839.72",
+                            "Finance Costs": "307.21",
+                            "Depreciation and amortisation expense": "242.47",
+                            "Job Charges": "2,612.98",
+                            "Other expenses": "1,524.57",
+                            "Total Expenses": "13,388.55",
+                            "Profit/(Loss) before tax (1-2)": "188.20",
+                            "Current Tax": null,
+                            "Deferred Tax": "47.87",
+                            "Net Profit/(Loss) for the period (3-4)": "140.32",
+                            "Other Comprehensive Income": null,
+                            "Total Comprehensive Income for the period": "142.36",
+                            "Paid-up equity share capital": "586.94",
+                            "Earning per share Basic": "2.39",
+                            "Earning per share Diluted": "2.39"
+                        }
+                    },
+                    {
+                        "period": "Nine Month Ended",
+                        "date": "31-Dec-2023",
+                        "data": {
+                            "Income From Operations": "16,247.87",
+                            "Other Income": "11.45",
+                            "Total Income from operations": "16,259.32",
+                            "Cost of materials consumed": "7,365.89",
+                            "Purchase of Stock-in-trade": "2,864.59",
+                            "Changes in inventories of Finished Goods, Work-in-Progress": "73.71",
+                            "Employees benefits expense": "1,809.40",
+                            "Finance Costs": "844,22",
+                            "Depreciation and amortisation expense": "341.23",
+                            "Job Charges": "1,904.65",
+                            "Other expenses": "1,901.79",
+                            "Total Expenses": "16,205.48",
+                            "Profit/(Loss) before tax (1-2)": "(546.16)",
+                            "Current Tax": null,
+                            "Deferred Tax": "(175.58)",
+                            "Net Profit/(Loss) for the period (3-4)": "(370.58)",
+                            "Other Comprehensive Income": null,
+                            "Total Comprehensive Income for the period": "(356.56)",
+                            "Paid-up equity share capital": "586.94",
+                            "Earning per share Basic": "(6.31)",
+                            "Earning per share Diluted": "(6.31)"
+                        }
+                    },
+                    {
+                        "period": "Year Ended",
+                        "date": "31-Mar-2024",
+                        "data": {
+                            "Income From Operations": "21,760.03",
+                            "Other Income": "511.70",
+                            "Total Income from operations": "22,271.73",
+                            "Cost of materials consumed": "9,992.20",
+                            "Purchase of Stock-in-trade": "3,477.84",
+                            "Changes in inventories of Finished Goods, Work-in-Progress": "223.20",
+                            "Employees benefits expense": "2,082.63",
+                            "Finance Costs": "742.90",
+                            "Depreciation and amortisation expense": "457.63",
+                            "Job Charges": "2,767.18",
+                            "Other expenses": "2,705.27",
+                            "Total Expenses": "22,448.84",
+                            "Profit/(Loss) before tax (1-2)": "(177.12)",
+                            "Current Tax": null,
+                            "Deferred Tax": "(36.22)",
+                            "Net Profit/(Loss) for the period (3-4)": "(140.90)",
+                            "Other Comprehensive Income": null,
+                            "Total Comprehensive Income for the period": "(143.61)",
+                            "Paid-up equity share capital": "586.94",
+                            "Earning per share Basic": "(2.40)",
+                            "Earning per share Diluted": "(2.40)"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "page_3": {
+        "financial_statements": [
+            {
+                "type": "standalone",
+                "period": "quarterly",
+                "date": "December 31, 2024",
+                "details": "Unaudited Financial Results of KAMADGIRI FASHION LIMITED pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended"
+            },
+            {
+                "type": "standalone",
+                "period": "year to date",
+                "date": "December 31, 2024",
+                "details": "Unaudited Financial Results of KAMADGIRI FASHION LIMITED pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended"
+            }
+        ]
+    }
+}

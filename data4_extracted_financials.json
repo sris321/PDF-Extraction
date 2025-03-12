@@ -1,0 +1,193 @@
+{
+    "page_2": [
+        {
+            "financial_statement_type": "Consolidated Unaudited",
+            "date": "31 December 2024"
+        },
+        {
+            "financial_statement_type": "Consolidated Unaudited",
+            "date": "31 December 2024",
+            "period": "year-to-date",
+            "start_date": "1 April 2024"
+        }
+    ],
+    "page_6": [
+        {
+            "financial_statement_type": "consolidated",
+            "dates": [
+                "31 December 2024",
+                "30 September 2023",
+                "31 December 2023",
+                "31 December 2024",
+                "31 March 2024"
+            ]
+        },
+        {
+            "financial_statement_type": "standalone",
+            "dates": []
+        }
+    ],
+    "page_8": {
+        "financial_statements": [
+            {
+                "type": "standalone",
+                "period_end": "31 December 2024",
+                "period_type": "quarterly"
+            },
+            {
+                "type": "standalone",
+                "period_start": "1 April 2024",
+                "period_end": "31 December 2024",
+                "period_type": "year-to-date"
+            }
+        ]
+    },
+    "page_11": {
+        "financial_statements": [
+            {
+                "type": "standalone",
+                "period_ended": "31 December 2024",
+                "format": "Unaudited",
+                "values": {
+                    "Revenue from operations": "15,437.85",
+                    "Other income": "599.98",
+                    "Total income": "16,037.83",
+                    "Cost of construction and development": "3,512.06",
+                    "Changes in inventories of work-in-progress and finished properties": "1,966.11",
+                    "Employee benefits expense": "1,530.07",
+                    "Finance costs": "803.84",
+                    "Depreciation and amortisation expenses": "190.85",
+                    "Other expenses": "2,378.67",
+                    "Total expenses": "10,381.60",
+                    "Profit before tax": "5,656.23",
+                    "Tax expense": "(1,725.72)",
+                    "Profit for the period": "3,930.51",
+                    "Other comprehensive income": "627.80",
+                    "Total comprehensive income": "4,558.31",
+                    "Paid up equity share capital": "1,464.89",
+                    "Earnings per share": "(0.28)"
+                }
+            },
+            {
+                "type": "standalone",
+                "period_ended": "30 September 2024",
+                "format": "Unaudited",
+                "values": {
+                    "Revenue from operations": "15,944.61",
+                    "Other income": "659.05",
+                    "Total income": "16,604.56",
+                    "Cost of construction and development": "4,668.11",
+                    "Changes in inventories of work-in-progress and finished properties": "3,714.26",
+                    "Employee benefits expense": "1,249.46",
+                    "Finance costs": "903.10",
+                    "Depreciation and amortisation expenses": "199.87",
+                    "Other expenses": "1,599.28",
+                    "Total expenses": "12,334.08",
+                    "Profit before tax": "4,270.48",
+                    "Tax expense": "360.57",
+                    "Profit for the period": "3,930.51",
+                    "Other comprehensive income": "(112.19)",
+                    "Total comprehensive income": "3,818.32",
+                    "Paid up equity share capital": "1,464.85",
+                    "Earnings per share": "(0.28)"
+                }
+            },
+            {
+                "type": "standalone",
+                "period_ended": "31 December 2023",
+                "format": "Unaudited",
+                "values": {
+                    "Revenue from operations": "2,071.75",
+                    "Other income": "1,622.27",
+                    "Total income": "3,594.02",
+                    "Cost of construction and development": "9,739.74",
+                    "Changes in inventories of work-in-progress and finished properties": "27,511.67",
+                    "Employee benefits expense": "3,912.67",
+                    "Finance costs": "2,675.72",
+                    "Depreciation and amortisation expenses": "576.03",
+                    "Other expenses": "6,189.44",
+                    "Total expenses": "16,042.55",
+                    "Profit before tax": "(12,448.53)",
+                    "Tax expense": "(410,88)",
+                    "Profit for the period": "(10,545.32)",
+                    "Other comprehensive income": "(528.71)",
+                    "Total comprehensive income": "(10,532.38)",
+                    "Paid up equity share capital": "1,464.86",
+                    "Earnings per share": "(0.71)"
+                }
+            },
+            {
+                "type": "standalone",
+                "period_ended": "31 December 2024",
+                "format": "Unaudited",
+                "values": {
+                    "Revenue from operations": "61,045.74",
+                    "Other income": "1,814.77",
+                    "Total income": "62,860.51",
+                    "Cost of construction and development": "14,246.75",
+                    "Changes in inventories of work-in-progress and finished properties": "(10,931,28)",
+                    "Employee benefits expense": "3,789.75",
+                    "Finance costs": "4,008.64",
+                    "Depreciation and amortisation expenses": "329.66",
+                    "Other expenses": "4,599.03",
+                    "Total expenses": "45,141.74",
+                    "Profit before tax": "17,718.77",
+                    "Tax expense": "(1,174.19)",
+                    "Profit for the period": "16,544.58",
+                    "Other comprehensive income": "(18.26)",
+                    "Total comprehensive income": "16,526.32",
+                    "Paid up equity share capital": "1,464.89",
+                    "Earnings per share": "6.60"
+                }
+            },
+            {
+                "type": "standalone",
+                "period_ended": "31 December 2023",
+                "format": "Unaudited",
+                "values": {
+                    "Revenue from operations": "9,660.26",
+                    "Other income": "4,165.03",
+                    "Total income": "13,825.29",
+                    "Cost of construction and development": "22,795.08",
+                    "Changes in inventories of work-in-progress and finished properties": "3,107.79",
+                    "Employee benefits expense": "4,872.83",
+                    "Finance costs": "5,743.55",
+                    "Depreciation and amortisation expenses": "530.66",
+                    "Other expenses": "8,091.80",
+                    "Total expenses": "45,141.74",
+                    "Profit before tax": "(31,316.45)",
+                    "Tax expense": "2,774.89",
+                    "Profit for the period": "(9,665.44)",
+                    "Other comprehensive income": "514,36",
+                    "Total comprehensive income": "(9,784.98)",
+                    "Paid up equity share capital": "1,464.85",
+                    "Earnings per share": "6.60"
+                }
+            },
+            {
+                "type": "standalone",
+                "period_ended": "31 March 2024",
+                "format": "Audited",
+                "values": {
+                    "Revenue from operations": "52,640.05",
+                    "Other income": "4,941.99",
+                    "Total income": "57,662.04",
+                    "Cost of construction and development": null,
+                    "Changes in inventories of work-in-progress and finished properties": null,
+                    "Employee benefits expense": null,
+                    "Finance costs": null,
+                    "Depreciation and amortisation expenses": null,
+                    "Other expenses": null,
+                    "Total expenses": null,
+                    "Profit before tax": null,
+                    "Tax expense": null,
+                    "Profit for the period": null,
+                    "Other comprehensive income": "119.54",
+                    "Total comprehensive income": null,
+                    "Paid up equity share capital": "1,464.86",
+                    "Earnings per share": null
+                }
+            }
+        ]
+    }
+}

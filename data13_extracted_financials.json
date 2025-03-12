@@ -1,0 +1,86 @@
+{
+    "page_2": {
+        "financial_statements": [
+            {
+                "type": "standalone",
+                "dates": [
+                    {
+                        "period": "Quarter Ended",
+                        "date": "31.12.2024",
+                        "values": {
+                            "Revenue from operations": "13,822"
+                        }
+                    },
+                    {
+                        "period": "Quarter Ended",
+                        "date": "30.09.2024",
+                        "values": {
+                            "Revenue from operations": "15,252"
+                        }
+                    },
+                    {
+                        "period": "Quarter Ended",
+                        "date": "31.12.2023",
+                        "values": {
+                            "Revenue from operations": "13,769"
+                        }
+                    },
+                    {
+                        "period": "Nine Month Ended",
+                        "date": "31.12.2024",
+                        "values": {
+                            "Revenue from operations": "43,137"
+                        }
+                    },
+                    {
+                        "period": "Nine Month Ended",
+                        "date": "31.12.2023",
+                        "values": {
+                            "Revenue from operations": "41,694"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "consolidated",
+                "dates": [
+                    {
+                        "period": "Quarter Ended",
+                        "date": "31.12.2024",
+                        "values": {
+                            "Revenue from operations": "21,836"
+                        }
+                    },
+                    {
+                        "period": "Quarter Ended",
+                        "date": "30.09.2024",
+                        "values": {
+                            "Revenue from operations": "24,533"
+                        }
+                    },
+                    {
+                        "period": "Quarter Ended",
+                        "date": "31.12.2023",
+                        "values": {
+                            "Revenue from operations": "23,269"
+                        }
+                    },
+                    {
+                        "period": "Nine Month Ended",
+                        "date": "31.12.2024",
+                        "values": {
+                            "Revenue from operations": "68,383"
+                        }
+                    },
+                    {
+                        "period": "Nine Month Ended",
+                        "date": "31.12.2023",
+                        "values": {
+                            "Revenue from operations": "65,088"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
